@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Praia de Tambaú, João Pessoa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #007BFF;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #007BFF;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Praia de Tambaú, João Pessoa</h1>
+  </header>
+  
+  <main>
+    <h2>Visite a Praia de Tambaú</h2>
+    <p>A Praia de Tambaú é um dos destinos mais populares da cidade de João Pessoa, conhecida por suas águas claras e calmas, além de sua incrível faixa de areia. A praia oferece uma vista deslumbrante do oceano Atlântico e é um ótimo local para relaxar, tomar sol e aproveitar a comida local.</p>
+    
+    <img src="praia-tambau.jpg" alt="Praia de Tambaú">
+    
+    <p>Além da praia, Tambaú também é famosa por sua calçadão movimentado, onde você pode encontrar barracas de comida, lojas de artesanato e diversas opções de entretenimento. É um local imperdível para os visitantes de João Pessoa.</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Praia de Tambaú, João Pessoa</p>
+  </footer>
+</body>
+</html>
